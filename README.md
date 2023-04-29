@@ -1,1 +1,1 @@
-# flask-blog-app
+# flask-notes-app
